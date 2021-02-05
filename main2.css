@@ -1,0 +1,67 @@
+html {
+    font-family: 'Arial Narrow Bold', 'Segoe UI';
+}
+
+body {
+    background-image: url("background.jfif");
+    font-size: 20px;
+    text-align: justify;
+    padding: 8px; 
+    color: #9da2ab;
+    width: 1000px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: none;
+}
+
+.navigation a{
+    text-align: right;
+    display: block;
+    width: 100%;
+    color: #9da2ab;
+}
+
+.navigation:hover {
+    background-color: #7f534b;
+}
+
+h1 {
+    text-align: center;
+    color: #c1d076;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: #1b679d;
+    font-size: 25px;
+    padding-top: 8px;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: #1b679d;
+}
+
+table td, thead {
+    width: 200px;
+    padding: 5px;
+    text-align: right;
+}
+
+hr {
+    width: 100%;
+    color: #f0a202;
+}
+
+img {
+    width: 400px;
+}
